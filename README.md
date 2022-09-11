@@ -1,5 +1,6 @@
-# animation with Three.js
+# Animation with Three.js
 
-##Installation
+## Installation
 `npm install` and `npm run start` 
+
 
